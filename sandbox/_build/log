@@ -1,0 +1,5 @@
+# dune init proj sandbox
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Users/pvlov/projects/fpv/sandbox
+# Auto-detected concurrency: 8
